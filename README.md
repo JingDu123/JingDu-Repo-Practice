@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages for Jing Du's GitHub Practice Exercise
 
 You can use the [editor on GitHub](https://github.com/JingDu123/JingDu-Repo-Practice/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
